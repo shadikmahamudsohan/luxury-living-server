@@ -23,11 +23,6 @@ async function run() {
         const houseCollection = client.db("houses").collection("house");
 
         // get all data from database
-        app.get('/', async (req, res) => {
-            const housers = await houseCollection.find({}).toArray();
-            res.send(housers);
-        });
-        // get all data from database
         app.get('/houses', async (req, res) => {
             const housers = await houseCollection.find({}).toArray();
             res.send(housers);
@@ -56,9 +51,9 @@ async function run() {
 run().catch(console.dir);
 
 
-// app.get('/', (req, res) => {
-//     res.send('Hello World!');
-// });
+app.get('/', (req, res) => {
+    res.send('Hello World!');
+});
 
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`);
