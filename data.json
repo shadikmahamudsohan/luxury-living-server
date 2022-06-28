@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Villa on Washington Avenue",
+        "location": " 53 W 88th St, New York, Upper East Side",
+        "price": "150,000",
+        "bathrooms": 3,
+        "rooms": 8,
+        "availableFrom": "2015-08-19",
+        "bedrooms": 5,
+        "start": "4.5",
+        "structureType": "Brick",
+        "image": "https://i.ibb.co/XYTzk6j/jarek-ceborski-jn7u-Ve-Cdf6-U-unsplash.jpg",
+        "customer": "2300",
+        "description": "Beautiful, updated, ground level Co-op apartment in the desirable Bay Terrace neighborhood. This home features hardwood floors throughout, brand new bathrooms, newer EIK, modern front-load washer/dryer, full dining room, large living area, 3 spacious bedrooms and plenty of storage. Master bedroom includes both a standard closet and custom closet wall unit. Large windows face many directions for tons of natural light."
+    },
+    {
+        "name": "Villa on Washington Avenue",
+        "location": "New Jersey State",
+        "price": "950,000",
+        "bathrooms": 2,
+        "rooms": 6,
+        "availableFrom": "2018-07-26",
+        "bedrooms": 4,
+        "start": "4",
+        "structureType": "Brick",
+        "image": "https://i.ibb.co/Fsh7P12/liliane-limpens-d-B25y6ks-S-g-unsplash.jpg",
+        "customer": "200",
+        "description": "This property is mostly wooded and sits high on a hilltop overlooking the Mohawk River Valley. Located right in the heart of Upstate NYs Amish farm Country, this land is certified organic making it extremely rare! Good road frontage on a paved county road with utilities make it an amazing setting for your dream country getaway! If you like views, you must see this property!"
+    },
+    {
+        "name": "Beautiful Flat in Manhattan",
+        "location": "New Jersey State",
+        "price": "600,000",
+        "bathrooms": 2,
+        "rooms": 5,
+        "availableFrom": "2018-07-26",
+        "bedrooms": 3,
+        "start": "5",
+        "structureType": "Cement",
+        "image": "https://i.ibb.co/tXps010/outsite-co-R-LK3sq-Li-Bw-unsplash.jpg",
+        "customer": "300",
+        "description": "Beautiful Huge 1 Family House In Heart Of Westbury. Newly Renovated With New Wood Floors, Cherry Cabinets And New Bath And Complete Set Of Stainless Steel Appliances. Large 5 Bedrooms House With Seperate Living, Dinning And Office/Study Room. Must See To Appreciate."
+    },
+    {
+        "name": "Best House",
+        "location": "London",
+        "price": "500,000",
+        "bathrooms": 3,
+        "rooms": 5,
+        "availableFrom": "2018-07-26",
+        "bedrooms": 2,
+        "start": "4.5",
+        "structureType": "Cement",
+        "image": "https://i.ibb.co/LgjCGb9/francesca-tosolini-t-Hk-JAMc-O3-QE-unsplash.jpg",
+        "customer": "300",
+        "description": "Beautiful Huge 1 Family House In Heart Of Westbury. Newly Renovated With New Wood Floors, Cherry Cabinets And New Bath And Complete Set Of Stainless Steel Appliances. Large 5 Bedrooms House With Seperate Living, Dinning And Office/Study Room. Must See To Appreciate."
+    }
+]
